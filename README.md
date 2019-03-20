@@ -1,5 +1,5 @@
 # sort-song-by-author
-Just input path to music folder and all unsorted mp3 wil sorted by folder with author names
+Just enter a path to a folder containing .mp3 music files (named in format: "author - title"), and they will be sorted by author name into corresponding subfolders.
 
 Python 3.5
 Linux OS
